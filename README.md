@@ -115,20 +115,6 @@ The main lesson is that **accuracy alone is not enough** for this problem. Macro
 
 ---
 
-## Next steps
-
-A stronger version of this project could:
-
-- apply resampling techniques only on the training set, such as SMOTE or partial undersampling
-- test additional models such as Extra Trees, Gradient Boosting or HistGradientBoosting
-- evaluate ordinal classification methods specifically designed for ordered labels
-- perform probability calibration
-- tune decision thresholds for minority-class detection
-- compare results using repeated stratified cross-validation
-- analyse feature importance and model explainability in more depth
-
----
-
 ## Stack
 
 - **Python** — NumPy, Pandas  
